@@ -19,6 +19,8 @@ i3status has the following dependencies:
   * autoconf (compile-time only dependency)
   * asciidoc (only for the documentation)
   * libpulse-dev (for getting the current volume using PulseAudio)
+  * libxkbfile-dev
+  * libx11-dev
 
 On debian-based systems, the following line will install all requirements:
 ```bash
